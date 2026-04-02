@@ -1,5 +1,7 @@
+![Lenguajes](https://github.com/Jose-C159/Jose-C159/blob/main/metrics-readme-token.svg)
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&background=0D0D0D&center=true&vCenter=true&width=600&lines=Hola,+soy+[Tu+Nombre]++;Bienvenido+a+mi+perfil+GitHub;Full+Stack+Developer;Apasionado+por+el+código+neón" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&background=0D0D0D&center=true&vCenter=true&width=600&lines=Hola,+soy+[José+Cedeño]++;Bienvenido+a+mi+perfil+GitHub;Full+Stack+Developer;Apasionado+por+la+programación+y+el+aprendizaje" alt="Typing SVG" />
 </div>
 
 <br>
