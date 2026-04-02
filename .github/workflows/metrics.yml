@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics-readme-token }}
           user: Jose-C159
           template: classic
           base: repositories, metadata
