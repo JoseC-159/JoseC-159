@@ -1,7 +1,7 @@
-![Lenguajes](https://github.com/Jose-C159/Jose-C159/blob/main/metrics-readme-token.svg)
+![Lenguajes](https://github.com/JoseC-159/JoseC-159/blob/main/metrics-readme-token.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&background=0D0D0D&center=true&vCenter=true&width=600&lines=Hola,+soy+[José+Cedeño]++;Bienvenido+a+mi+perfil+GitHub;Full+Stack+Developer;Apasionado+por+la+programación+y+el+aprendizaje" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+José+Cedeño;Bienvenido+a+mi+perfil+GitHub;Full+Stack+Developer;Apasionado+por+la+programación+y+el+aprendizaje" alt="Typing SVG" />
 </div>
 
 <br>
@@ -73,12 +73,12 @@
 
 <br>
 
-<!-- OPCIÓN 2: CON PORCENTAJES AUTOMÁTICOS (requiere setup) -->
+<!-- OPCIÓN 2: CON PORCENTAJES AUTOMÁTICOS-->
 <details>
   <summary style="color: #00FFFF; font-size: 1.2rem;">📊 Ver porcentajes automáticos (con GitHub Actions)</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dark&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&hide_border=false&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseC-159&layout=compact&theme=dark&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&hide_border=false&border_radius=10" />
     <p style="color: #CCCCCC;">ℹ️ Los porcentajes se actualizan automáticamente cada vez que haces push.<br>
     Para habilitarlo: añade <code>github-readme-stats</code> vía GitHub Actions o usa el badge directo de Vercel.</p>
   </div>
@@ -92,5 +92,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=tuusuario&style=for-the-badge&color=00FFFF&label=VISITAS+NEÓN" />
   <br><br>
-  <p style="color: #CCCCCC;">✨ <i>Always locked in</i> ✨</p>
+  <p style="color: #CCCCCC;">✨ <b>Always locked in</b> ✨</p>
 </div>
