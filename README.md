@@ -1,7 +1,5 @@
-![Lenguajes](https://github.com/JoseC-159/JoseC-159/blob/main/METRICS_TOKEN.svg)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+José+Cedeño;Bienvenido+a+mi+perfil+GitHub;Full+Stack+Developer;Apasionado+por+la+programación...;...+y+por+el+aprendizaje" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hola,+soy+José+Cedeño+✌️;Bienvenid@+a+mi+perfil+de+GitHub!;Programador+Full+Stack+(Principalmente);Apasionado+por+la+programación...;...+y+por+el+aprendizaje!+✍️" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,11 +10,12 @@
     <tr>
       <td align="center">
         <h3 style="color: #00FFFF;"> Bienvenid@ 👋 </h3>
-        <h4 style="color: #00FFFF;"> Mi nombre es José, y soy un programador en ascenso 👆📈. A continuación, te comparto unas cosas sobre mí: </h4>
-        <p style="color: #CCCCCC;">💻 Ing. Informático | 🪨 ► 💎 Dejando huella con mi trabajo... </p>
-        <p style="color: #CCCCCC;">📍 Región Metropolitana | 📫 andradejosemanuel159@gmail.com | 🌐 [tusitio.com]</p>
+        <h4 style="color: #00FFFF;"> Mi nombre es José, y soy un programador en ascenso . A continuación, te comparto unas cosas sobre mí👆📈 </h4>
+        <p style="color: #CCCCCC;">💻 Ing. Informático | 🪨 ► 💎 Haciendo diferencia con criterio... </p>
+        <p style="color: #CCCCCC;">📍 Región Metropolitana | 📫 andradejosemanuel159@gmail.com | 🌐 linkedin.com(proximamente)</p>
         <p style="color: #00FFFF;">
-          🔧 Tecnologías favoritas: 
+          🔧 Tecnologías preferidas: 
+          <br><br>
           <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -67,8 +66,8 @@
 
 <!-- OPCIÓN 1: SIN PORCENTAJES AUTOMÁTICOS (MÁS SIMPLE) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,react,nodejs,express,flask,django,mongodb,postgres,mysql,docker,kubernetes,git,githubactions,html,css,tailwind,figma&perline=8" />
-  <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · Go · React · Node.js · Docker · Kubernetes · y más</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,react,nodejs,express,flask,django,mongodb,postgres,mysql,docker,kubernetes,git,githubactions,html,css,tailwind,figma&perline=8" />
+  <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Kubernetes · y más</p>
 </div>
 
 <br>
@@ -89,7 +88,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&style=for-the-badge&color=00FFFF&label=VISITAS+NEÓN" />
+  <img src="https://komarev.com/ghpvc/?username=JoseC-159&style=for-the-badge&color=00FFFF&label=VISITAS+NEÓN" />
   <br><br>
   <p style="color: #CCCCCC;">✨ <b>Always locked in</b> ✨</p>
 </div>
