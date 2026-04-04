@@ -66,7 +66,7 @@
 
 <!-- OPCIÓN 1: SIN PORCENTAJES AUTOMÁTICOS (MÁS SIMPLE) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,react,nodejs,express,flask,django,mongodb,postgres,mysql,docker,kubernetes,git,githubactions,html,css,tailwind,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,django,cs,wordpress,gcp,azure,mongodb,postgres,mysql,docker,git,githubactions,html,css,figma&perline=8" />
   <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Kubernetes · y más</p>
 </div>
 
@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseC-159&layout=compact&theme=dark&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" />
+  <img src="./languages.svg" />
   <br>
   <sub style="color: #CCCCCC;">📌 Actualizado automáticamente con cada push</sub>
 </div>
