@@ -1,6 +1,3 @@
-<!-- Estilos -->
-<img src="./styles.svg" width="0" height="0" />
-
 <!-- Introducción -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hola,+soy+José+Cedeño+✌️;Bienvenid@+a+mi+perfil+de+GitHub!;Programador+Full+Stack+(Principalmente);Apasionado+por+la+programación...;...+y+por+el+aprendizaje!+✍️" alt="Typing SVG" />
@@ -37,41 +34,31 @@
 <br><br>
 
 <div align="center">
-  
-  <!-- Proyecto 1 -->
-  <div class="proyecto-card">
-    <a href="https://github.com/JoseC-159/MCU-ARDUINO">
-      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/mcu-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=MCU+ARDUINO'" />
-    </a>
-    <div class="proyecto-titulo">📱 MCU ARDUINO</div>
-    <div class="proyecto-descripcion">Control vehicular con IoT</div>
-    <div>
-      <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🔧 C++</span>
-    </div>
-  </div>
-   <!-- Proyecto 2 -->
-  <div class="proyecto-card">
-    <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
-      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/ia-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=IA+Espectador'" />
-    </a>
-    <div class="proyecto-titulo">🤖 IA Espectador</div>
-    <div class="proyecto-descripcion">Análisis de pantalla con contexto</div>
-    <div>
-      <span>🐍 Python</span> • <span>🧠 OpenAI</span> • <span>🎯 Computer Vision</span>
-    </div>
-  </div>
-
-  <!-- Proyecto 3 -->
-  <div class="proyecto-card">
-    <a href="https://github.com/JoseC-159/Cafe-Registry">
-      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/cafe-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=Cafe+Registry'" />
-    </a>
-    <div class="proyecto-titulo">☕ Cafe Registry</div>
-    <div class="proyecto-descripcion">Gestión de ventas para cafeterías</div>
-    <div>
-      <span>🐍 Python</span> • <span>📊 Pandas</span> • <span>💾 SQLite</span>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <!-- Proyecto 1 -->
+      <td align="center" style="color: #54e8c0; border-color: #54e8c0; padding: 15px; border: 1px solid #00FFFF;">
+        <a href="https://github.com/JoseC-159/MCU-ARDUINO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=MCU-ARDUINO&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+        </a>
+        <p style="color: #CCCCCC; margin-top: 10px;">📱 Aplicación de utilidad para vehículos</p>
+      </td>
+      <!-- Proyecto 2 -->
+      <td align="center" style="background-color: #1A1A1A; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
+        <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=IA---Espectador-de-pantalla&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+        </a>
+        <p style="color: #CCCCCC; margin-top: 10px;">🤖 Visualización de pantalla con IA</p>
+      </td>
+      <!-- Proyecto 3 -->
+      <td align="center" style="background-color: #54e8c0; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
+        <a href="https://github.com/JoseC-159/Cafe-Registry">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=Cafe-Registry&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+        </a>
+        <p style="color: #CCCCCC; margin-top: 10px;">📊 Gestor de ventas de cafetería</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -106,5 +93,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=JoseC-159&style=for-the-badge&color=00FFFF&label=VISITAS+NEÓN" />
   <br><br>
-  <p style="color: #CCCCCC;">✨ <b>Always locked in</b> ✨</p>
+  <p style="color: #CCCCCC;">✨ <b>El tiempo vuela cuando haces lo que te gusta</b> ✨</p>
 </div>
