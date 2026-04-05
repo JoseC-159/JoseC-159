@@ -1,3 +1,7 @@
+<!-- Estilos -->
+<img src="./styles.svg" width="0" height="0" />
+
+<!-- Introducción -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hola,+soy+José+Cedeño+✌️;Bienvenid@+a+mi+perfil+de+GitHub!;Programador+Full+Stack+(Principalmente);Apasionado+por+la+programación...;...+y+por+el+aprendizaje!+✍️" alt="Typing SVG" />
 </div>
@@ -32,39 +36,39 @@
 
 <br><br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+<div align="center">
   
   <!-- Proyecto 1 -->
-  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px; transition: all 0.3s ease;">
+  <div class="proyecto-card">
     <a href="https://github.com/JoseC-159/MCU-ARDUINO">
       <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/mcu-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=MCU+ARDUINO'" />
     </a>
-    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">📱 MCU ARDUINO</div>
-    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Control vehicular con IoT</div>
-    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+    <div class="proyecto-titulo">📱 MCU ARDUINO</div>
+    <div class="proyecto-descripcion">Control vehicular con IoT</div>
+    <div>
       <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🔧 C++</span>
     </div>
   </div>
    <!-- Proyecto 2 -->
-  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px;">
+  <div class="proyecto-card">
     <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
       <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/ia-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=IA+Espectador'" />
     </a>
-    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">🤖 IA Espectador</div>
-    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Análisis de pantalla con contexto</div>
-    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+    <div class="proyecto-titulo">🤖 IA Espectador</div>
+    <div class="proyecto-descripcion">Análisis de pantalla con contexto</div>
+    <div>
       <span>🐍 Python</span> • <span>🧠 OpenAI</span> • <span>🎯 Computer Vision</span>
     </div>
   </div>
 
   <!-- Proyecto 3 -->
-  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px;">
+  <div class="proyecto-card">
     <a href="https://github.com/JoseC-159/Cafe-Registry">
       <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/cafe-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=Cafe+Registry'" />
     </a>
-    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">☕ Cafe Registry</div>
-    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Gestión de ventas para cafeterías</div>
-    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+    <div class="proyecto-titulo">☕ Cafe Registry</div>
+    <div class="proyecto-descripcion">Gestión de ventas para cafeterías</div>
+    <div>
       <span>🐍 Python</span> • <span>📊 Pandas</span> • <span>💾 SQLite</span>
     </div>
   </div>
