@@ -44,17 +44,23 @@
         </a>
         <br><br>
         <p style="color: #CCCCCC; margin-top: 10px;">📱 Aplicación de utilidad para vehículos</p>
-        <br>
+        <sub>
+          <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🔧 C#</span>
+        </sub>
+        <br><br>
       </td>
       <!-- Proyecto 2 -->
       <td align="center" style="background-color: #1A1A1A; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
         <br>
         <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
-          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/ia-spectator.png" width="200" />
+          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/ia-spectatr.png" width="200" />
         </a>
         <br><br>
         <p style="color: #CCCCCC; margin-top: 10px">🤖 Visualización de pantalla con IA</p>
-        <br>
+        <sub>
+          <span>🐍 Python</span> • <span>🧠 OpenAI</span> • <span>🎯 Computer Vision</span>
+        </sub>
+        <br><br>
       </td>
       <!-- Proyecto 3 -->
       <td align="center" style="background-color: #54e8c0; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
@@ -63,8 +69,11 @@
           <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/coffee-gestor.png" border_radius="10" width="200" />
         </a>
         <br><br>
-        <p style="color: #CCCCCC; margin-top: 10px;">📊 Gestor de ventas de cafetería</p>
-        <br>
+        <p style="color: #CCCCCC; margin-top: 10px;">☕ Gestor de ventas de cafetería</p>
+        <sub>
+          <span>🐍 Python</span> • <span>📊 Pandas</span> • <span>💾 SQLite</span>
+        </sub>
+        <br><br>
       </td>
     </tr>
   </table>
@@ -126,7 +135,7 @@
     </tbody>
   </table>
   <br>
-  <sub style="color: #AAAAAA;">📌 Tip: Si te interesa ver algún curso, haz click en "Ver ▶" para acceder a cada certificado</sub>
+  <sub style="color: #AAAAAA;">📌 Tip algo obvio: Si te interesa ver algún curso, haz click en "Ver ▶" para acceder a cada certificado</sub>
 </div>
 
 <br>
