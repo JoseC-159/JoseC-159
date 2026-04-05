@@ -72,6 +72,67 @@
 
 <br>
 
+<!-- CURSOS COMPLETADOS -->
+<h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🎓 Cursos Completados</h2>
+
+<br><br>
+
+<div align="center">
+  <table style="background-color: #0D0D0D; border: 1px solid #00FFFF; border-radius: 20px; padding: 15px; width: 90%;">
+    <thead>
+      <tr>
+        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📚 Curso</th>
+        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🏢 Plataforma</th>
+        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📅 Año</th>
+        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🔗 Certificado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fila 1 -->
+      <tr>
+        <td style="color: #CCCCCC; padding: 12px;">Desarrollo Web Full Stack</td>
+        <td style="color: #CCCCCC; padding: 12px;">Coursera</td>
+        <td style="color: #CCCCCC; padding: 12px;">2024</td>
+        <td style="padding: 12px;"><a href="https://link-al-certificado.com" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+      </tr>
+      <!-- Fila 2 -->
+      <tr>
+        <td style="color: #CCCCCC; padding: 12px;">Python para Análisis de Datos</td>
+        <td style="color: #CCCCCC; padding: 12px;">Udemy</td>
+        <td style="color: #CCCCCC; padding: 12px;">2024</td>
+        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+      </tr>
+      <!-- Fila 3 -->
+      <tr>
+        <td style="color: #CCCCCC; padding: 12px;">React + TypeScript</td>
+        <td style="color: #CCCCCC; padding: 12px;">Platzi</td>
+        <td style="color: #CCCCCC; padding: 12px;">2023</td>
+        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+      </tr>
+      <!-- Fila 4 -->
+      <tr>
+        <td style="color: #CCCCCC; padding: 12px;">Bases de Datos SQL y NoSQL</td>
+        <td style="color: #CCCCCC; padding: 12px;">Microsoft Learn</td>
+        <td style="color: #CCCCCC; padding: 12px;">2023</td>
+        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+      </tr>
+      <!-- Fila 5 (opcional) -->
+      <tr>
+        <td style="color: #CCCCCC; padding: 12px;">Docker y Kubernetes</td>
+        <td style="color: #CCCCCC; padding: 12px;">Google Cloud Skills</td>
+        <td style="color: #CCCCCC; padding: 12px;">2024</td>
+        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <sub style="color: #AAAAAA;">📌 Tip: Si te interesa ver algún curso, haz click en "Ver ▶" para acceder a cada certificado</sub>
+</div>
+
+<br>
+
+<br>
+
 <!-- LENGUAJES Y TECNOLOGÍAS -->
 <h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🧠 Lenguajes y Tecnologías</h2>
 
@@ -91,16 +152,15 @@
 <div align="center">
   <img src="./languages.svg" />
   <br>
-  <sub style="color: #CCCCCC;">📌 Actualizado automáticamente con cada push</sub>
 </div>
 
 <br>
 
-<!-- ANIMACIÓN NEON ADICIONAL -->
+<!-- ANIMACIÓN NEON -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=JoseC-159&style=for-the-badge&color=00FFFF&label=VISITAS+NEÓN" />
+  <img src="https://komarev.com/ghpvc/?username=JoseC-159&style=for-the-badge&color=00FFFF&label=VISITAS+AQUÍ" />
   <br><br>
   <p style="color: #CCCCCC;">✨ <b>El tiempo vuela cuando haces lo que te gusta</b> ✨</p>
 </div>
