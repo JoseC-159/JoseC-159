@@ -38,24 +38,33 @@
     <tr>
       <!-- Proyecto 1 -->
       <td align="center" style="color: #54e8c0; border-color: #54e8c0; padding: 15px; border: 1px solid #00FFFF;">
+        <br>
         <a href="https://github.com/JoseC-159/MCU-ARDUINO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=MCU-ARDUINO&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/mcu-icon.png" width="200" />
         </a>
+        <br><br>
         <p style="color: #CCCCCC; margin-top: 10px;">📱 Aplicación de utilidad para vehículos</p>
+        <br>
       </td>
       <!-- Proyecto 2 -->
       <td align="center" style="background-color: #1A1A1A; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
+        <br>
         <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=IA---Espectador-de-pantalla&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/ia-spectator.png" width="200" />
         </a>
-        <p style="color: #CCCCCC; margin-top: 10px;">🤖 Visualización de pantalla con IA</p>
+        <br><br>
+        <p style="color: #CCCCCC; margin-top: 10px">🤖 Visualización de pantalla con IA</p>
+        <br>
       </td>
       <!-- Proyecto 3 -->
       <td align="center" style="background-color: #54e8c0; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
+        <br>
         <a href="https://github.com/JoseC-159/Cafe-Registry">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=Cafe-Registry&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" width="300" />
+          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/coffee-gestor.png" border_radius="10" width="200" />
         </a>
+        <br><br>
         <p style="color: #CCCCCC; margin-top: 10px;">📊 Gestor de ventas de cafetería</p>
+        <br>
       </td>
     </tr>
   </table>
