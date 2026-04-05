@@ -32,38 +32,42 @@
 
 <br><br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
-          <a href="https://github.com/JoseC-159/MCU-ARDUINO">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto1&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
-          </a>
-          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">📱 App Móvil React Native</div>
-          <div style="color: #CCCCCC; font-size: 0.9rem;">Aplicación de utilidad para con vehículos</div>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
-          <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto2&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
-          </a>
-          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">🤖 Espectador de pantalla con IA</div>
-          <div style="color: #CCCCCC; font-size: 0.9rem;">Visualización y respuestas con contexto</div>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
-          <a href="https://github.com/JoseC-159/Cafe-Registry">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto3&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
-          </a>
-          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">📊 Gestor de ventas de cafetería</div>
-          <div style="color: #CCCCCC; font-size: 0.9rem;">Visualización de datos con Python</div>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+  
+  <!-- Proyecto 1 -->
+  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px; transition: all 0.3s ease;">
+    <a href="https://github.com/JoseC-159/MCU-ARDUINO">
+      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/mcu-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=MCU+ARDUINO'" />
+    </a>
+    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">📱 MCU ARDUINO</div>
+    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Control vehicular con IoT</div>
+    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+      <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🔧 C++</span>
+    </div>
+  </div>
+   <!-- Proyecto 2 -->
+  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px;">
+    <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
+      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/ia-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=IA+Espectador'" />
+    </a>
+    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">🤖 IA Espectador</div>
+    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Análisis de pantalla con contexto</div>
+    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+      <span>🐍 Python</span> • <span>🧠 OpenAI</span> • <span>🎯 Computer Vision</span>
+    </div>
+  </div>
+
+  <!-- Proyecto 3 -->
+  <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 25px; padding: 20px; text-align: center; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); width: 300px;">
+    <a href="https://github.com/JoseC-159/Cafe-Registry">
+      <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/banners/cafe-banner.png" style="border-radius: 15px; width: 100%; height: auto;" onerror="this.src='https://via.placeholder.com/300x150/1A1A1A/00FFFF?text=Cafe+Registry'" />
+    </a>
+    <div style="color: #00FFFF; font-weight: bold; margin-top: 15px; font-size: 1.2rem;">☕ Cafe Registry</div>
+    <div style="color: #AAAAAA; font-size: 0.9rem; margin-top: 8px;">Gestión de ventas para cafeterías</div>
+    <div style="color: #00FFFF; font-size: 0.8rem; margin-top: 12px;">
+      <span>🐍 Python</span> • <span>📊 Pandas</span> • <span>💾 SQLite</span>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -75,7 +79,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,django,cs,wordpress,gcp,azure,mongodb,postgres,mysql,docker,git,githubactions,html,css,figma&perline=8" />
-  <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Kubernetes · y más</p>
+  <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Csharp · y más</p>
 </div>
 
 <br>
