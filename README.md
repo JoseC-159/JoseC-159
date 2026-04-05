@@ -30,28 +30,37 @@
 <!-- PROYECTOS DESTACADOS -->
 <h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🚀 Proyectos Destacados</h2>
 
-<br>
+<br><br>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; margin: 10px;">
-        <a href="https://github.com/JoseC-159/proyecto1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto1&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" />
-        </a>
-        <p style="color: #CCCCCC;">📱 App móvil con React Native</p>
+      <td>
+        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
+          <a href="https://github.com/JoseC-159/MCU-ARDUINO">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto1&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
+          </a>
+          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">📱 App Móvil React Native</div>
+          <div style="color: #CCCCCC; font-size: 0.9rem;">Aplicación de utilidad para con vehículos</div>
+        </div>
       </td>
-      <td align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; margin: 10px;">
-        <a href="https://github.com/JoseC-159/proyecto2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto2&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" />
-        </a>
-        <p style="color: #CCCCCC;">🤖 Bot de Discord con IA</p>
+      <td>
+        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
+          <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto2&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
+          </a>
+          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">🤖 Espectador de pantalla con IA</div>
+          <div style="color: #CCCCCC; font-size: 0.9rem;">Visualización y respuestas con contexto</div>
+        </div>
       </td>
-      <td align="center" style="background-color: #1A1A1A; border-radius: 15px; padding: 15px; margin: 10px;">
-        <a href="https://github.com/JoseC-159/proyecto3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto3&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=10" />
-        </a>
-        <p style="color: #CCCCCC;">📊 Dashboard analítico con Python</p>
+      <td>
+        <div style="background: linear-gradient(135deg, #1A1A1A 0%, #0D0D0D 100%); border-radius: 20px; padding: 20px; margin: 15px; text-align: center; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3); display: inline-block; width: 280px;">
+          <a href="https://github.com/JoseC-159/Cafe-Registry">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseC-159&repo=proyecto3&title_color=00FFFF&text_color=CCCCCC&bg_color=0D0D0D&border_color=00FFFF&border_radius=12" width="100%" />
+          </a>
+          <div style="color: #00FFFF; font-weight: bold; margin-top: 12px; margin-bottom: 8px; font-size: 1.1rem;">📊 Gestor de ventas de cafetería</div>
+          <div style="color: #CCCCCC; font-size: 0.9rem;">Visualización de datos con Python</div>
+        </div>
       </td>
     </tr>
   </table>
@@ -64,7 +73,6 @@
 
 <br>
 
-<!-- OPCIÓN 1: SIN PORCENTAJES AUTOMÁTICOS (MÁS SIMPLE) -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,django,cs,wordpress,gcp,azure,mongodb,postgres,mysql,docker,git,githubactions,html,css,figma&perline=8" />
   <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Kubernetes · y más</p>
