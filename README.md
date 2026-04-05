@@ -53,7 +53,7 @@
       <td align="center" style="background-color: #1A1A1A; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
         <br>
         <a href="https://github.com/JoseC-159/IA---Espectador-de-pantalla">
-          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/ia-spectatr.png" width="200" />
+          <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/IA-spectator.png" width="200" />
         </a>
         <br><br>
         <p style="color: #CCCCCC; margin-top: 10px">🤖 Visualización de pantalla con IA</p>
@@ -79,71 +79,10 @@
   </table>
 </div>
 
-<br>
-
-<!-- CURSOS COMPLETADOS -->
-<h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🎓 Cursos Completados</h2>
-
 <br><br>
 
-<div align="center">
-  <table style="background-color: #0D0D0D; border: 1px solid #00FFFF; border-radius: 20px; padding: 15px; width: 90%;">
-    <thead>
-      <tr>
-        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📚 Curso</th>
-        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🏢 Plataforma</th>
-        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📅 Año</th>
-        <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🔗 Certificado</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Fila 1 -->
-      <tr>
-        <td style="color: #CCCCCC; padding: 12px;">Desarrollo Web Full Stack</td>
-        <td style="color: #CCCCCC; padding: 12px;">Coursera</td>
-        <td style="color: #CCCCCC; padding: 12px;">2024</td>
-        <td style="padding: 12px;"><a href="https://link-al-certificado.com" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
-      </tr>
-      <!-- Fila 2 -->
-      <tr>
-        <td style="color: #CCCCCC; padding: 12px;">Python para Análisis de Datos</td>
-        <td style="color: #CCCCCC; padding: 12px;">Udemy</td>
-        <td style="color: #CCCCCC; padding: 12px;">2024</td>
-        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
-      </tr>
-      <!-- Fila 3 -->
-      <tr>
-        <td style="color: #CCCCCC; padding: 12px;">React + TypeScript</td>
-        <td style="color: #CCCCCC; padding: 12px;">Platzi</td>
-        <td style="color: #CCCCCC; padding: 12px;">2023</td>
-        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
-      </tr>
-      <!-- Fila 4 -->
-      <tr>
-        <td style="color: #CCCCCC; padding: 12px;">Bases de Datos SQL y NoSQL</td>
-        <td style="color: #CCCCCC; padding: 12px;">Microsoft Learn</td>
-        <td style="color: #CCCCCC; padding: 12px;">2023</td>
-        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
-      </tr>
-      <!-- Fila 5 (opcional) -->
-      <tr>
-        <td style="color: #CCCCCC; padding: 12px;">Docker y Kubernetes</td>
-        <td style="color: #CCCCCC; padding: 12px;">Google Cloud Skills</td>
-        <td style="color: #CCCCCC; padding: 12px;">2024</td>
-        <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
-      </tr>
-    </tbody>
-  </table>
-  <br>
-  <sub style="color: #AAAAAA;">📌 Tip algo obvio: Si te interesa ver algún curso, haz click en "Ver ▶" para acceder a cada certificado</sub>
-</div>
-
-<br>
-
-<br>
-
 <!-- LENGUAJES Y TECNOLOGÍAS -->
-<h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🧠 Lenguajes y Tecnologías</h2>
+<h2 align="center" style="color: #00FFFF; border-bottom: 2px solid #00FFFF; display: inline-block;">🧠 Tecnologías</h2>
 
 <br>
 
@@ -151,6 +90,108 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,django,cs,wordpress,gcp,azure,mongodb,postgres,mysql,docker,git,githubactions,html,css,figma&perline=8" />
   <p style="color: #AAAAAA; margin-top: 10px;">JavaScript · TypeScript · Python · Java · React · Node.js · Docker · Csharp · y más</p>
 </div>
+
+<br>
+
+<!-- CURSOS COMPLETADOS -->
+<details>
+  <summary style="color: #00FFFF; font-size: 1.4rem; font-weight: bold; cursor: pointer;">🎓 Cursos Completados (clic para desplegar ▼)</summary>
+
+  <br><br>
+  
+  <div align="center">
+    <table style="background-color: #0D0D0D; border: 1px solid #00FFFF; border-radius: 20px; padding: 15px; width: 90%;">
+      <thead>
+        <tr>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📚 Curso</th>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🏢 Plataforma</th>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📅 Año</th>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🔗 Certificado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Fila 1 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Programación de Software</td>
+          <td style="color: #CCCCCC; padding: 12px;">Duoc UC</td>
+          <td style="color: #CCCCCC; padding: 12px;">2025</td>
+          <td style="padding: 12px;"><a href="https://www.duoc.cl/escuela/administracion-negocios/oferta-academica/cursos-y-diplomados/" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+        <!-- Fila 2 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Arquitectura de Software</td>
+          <td style="color: #CCCCCC; padding: 12px;">Duoc UC</td>
+          <td style="color: #CCCCCC; padding: 12px;">2025</td>
+          <td style="padding: 12px;"><a href="https://www.duoc.cl/escuela/administracion-negocios/oferta-academica/cursos-y-diplomados/" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+        <!-- Fila 3 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Análisis y Desarrollo de Modelos de Datos</td>
+          <td style="color: #CCCCCC; padding: 12px;">Duoc UC</td>
+          <td style="color: #CCCCCC; padding: 12px;">2025</td>
+          <td style="padding: 12px;"><a href="https://www.duoc.cl/escuela/administracion-negocios/oferta-academica/cursos-y-diplomados/" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+        <!-- Fila 4 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Análisis y Planificación de Requerimientos Informáticos</td>
+          <td style="color: #CCCCCC; padding: 12px;">Duoc UC</td>
+          <td style="color: #CCCCCC; padding: 12px;">2025</td>
+          <td style="padding: 12px;"><a href="https://www.duoc.cl/escuela/administracion-negocios/oferta-academica/cursos-y-diplomados/" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+        <!-- Fila 5 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Calidad de Software</td>
+          <td style="color: #CCCCCC; padding: 12px;">Duoc UC</td>
+          <td style="color: #CCCCCC; padding: 12px;">2025</td>
+          <td style="padding: 12px;"><a href="https://www.duoc.cl/escuela/administracion-negocios/oferta-academica/cursos-y-diplomados/" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+        <!-- Fila 6 -->
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Más</td>
+          <td style="color: #CCCCCC; padding: 12px;">próximamente</td>
+          <td style="color: #CCCCCC; padding: 12px;">...</td>
+          <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Ver ▶</a></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <sub style="color: #AAAAAA;">📌 Tip algo obvio: Si te interesa ver algún curso, haz click en "Ver ▶" para acceder a cada certificado...</sub>
+  </div>
+</details>
+
+<br>
+
+<!-- IDIOMAS -->
+<details>
+  <summary style="color: #00FFFF; font-size: 1.4rem; font-weight: bold; cursor: pointer;">🌐 Idiomas (clic para desplegar ▼)</summary>
+  
+  <br>
+  
+  <div align="center">
+    <table style="background-color: #0D0D0D; border: 1px solid #00FFFF; border-radius: 20px; padding: 15px; width: 70%;">
+      <thead>
+        <tr>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">🗣️ Idioma</th>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📊 Nivel</th>
+          <th style="color: #00FFFF; border-bottom: 1px solid #00FFFF; padding: 10px;">📜 Certificación</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Español</td>
+          <td style="color: #CCCCCC; padding: 12px;">Nativo</td>
+          <td style="color: #CCCCCC; padding: 12px;">—</td>
+        </tr>
+        <tr>
+          <td style="color: #CCCCCC; padding: 12px;">Inglés</td>
+          <td style="color: #CCCCCC; padding: 12px;">Intermedio Avanzado - B2</td>
+          <td style="padding: 12px;"><a href="#" style="color: #00FFFF; text-decoration: none;">Toeic</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+</details>
 
 <br>
 
