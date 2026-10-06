@@ -45,7 +45,7 @@
         <br><br>
         <p style="color: #CCCCCC; margin-top: 10px;">📱 Aplicación de utilidad para vehículos</p>
         <sub>
-          <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🔧 C#</span>
+          <span>⚡ Arduino</span> • <span>📡 IoT</span> • <span>🐍 Python</span>
         </sub>
         <br><br>
       </td>
@@ -65,13 +65,14 @@
       <!-- Proyecto 3 -->
       <td align="center" style="background-color: #54e8c0; border-radius: 20px; padding: 15px; border: 1px solid #00FFFF;">
         <br>
-        <a href="https://github.com/JoseC-159/Cafe-Registry">
+        <a href="https://github.com/JoseC-159/AlkeWallet_Android_Project<img width="240" height="253" alt="dark_alke_wallet_icon" src="https://github.com/user-attachments/assets/c2e7c6a4-a2b0-4f5a-8f3b-cce6b128ab79" />
+">
           <img src="https://raw.githubusercontent.com/JoseC-159/JoseC-159/main/assets/coffee-gestor.png" border_radius="10" width="200" />
         </a>
         <br><br>
-        <p style="color: #CCCCCC; margin-top: 10px;">☕ Gestor de ventas de cafetería</p>
+        <p style="color: #CCCCCC; margin-top: 10px;">💵📱 App de Billetera Bigital</p>
         <sub>
-          <span>🐍 Python</span> • <span>📊 Pandas</span> • <span>💾 SQLite</span>
+          <span>🔳 Kotlin</span> • <span>📱 Android Studio</span> • <span>💾 SQLite</span>
         </sub>
         <br><br>
       </td>
@@ -212,5 +213,5 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=JoseC-159&style=for-the-badge&color=00FFFF&label=VISITAS+AQUÍ" />
   <br><br>
-  <p style="color: #CCCCCC;">✨ <b>El tiempo vuela cuando haces lo que te gusta</b> ✨</p>
+  <p style="color: #CCCCCC;">✍️ <b>El tiempo vuela cuando haces lo que te gusta</b> ✍️</p>
 </div>
